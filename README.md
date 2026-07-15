@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-- 🎓 B.Tech, Computer Science & Engineering — **Artificial Intelligence & Machine Learning**, SRM IST-Trichy (Class of 2027, CGPA 8.1/10)
+- 🎓 B.Tech, Computer Science & Engineering — **Artificial Intelligence & Machine Learning,SRM IST-Trichy 
 - 🔭 Currently building **AI-powered, full-stack applications** — combining ML models with real product thinking, not just notebooks
 - 🌱 Learning to go deeper on **model evaluation, explainability (SHAP), and system design**
 - 💼 Full Stack Web Development Intern @ Reccsar Pvt Ltd
@@ -58,32 +58,6 @@ AI-powered risk management system that analyzes trader history against prop-firm
 </td>
 <td width="50%" valign="top">
 
-**📉 Customer Churn Prediction for Telecom Providers**
-ML model predicting telecom customer churn from usage and billing data, using Logistic Regression and Random Forest to enable proactive retention strategies.
-`Python` `Pandas` `Scikit-learn` `Seaborn`
-[`Repo →`](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🩺 Skin Disease Classification Using Machine Learning**
-Image classification model using feature extraction and classical ML algorithms to support early skin disease detection and diagnosis.
-`Python` `Scikit-learn` `Pandas` `NumPy`
-[`Repo →`](#)
-
-</td>
-<td width="50%" valign="top">
-
-**➕ More coming soon**
-Currently building out my project portfolio — check back or follow for updates.
-
-</td>
-</tr>
-</table>
-
----
 
 ### 📜 Certifications
 
