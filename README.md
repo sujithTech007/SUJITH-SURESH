@@ -54,11 +54,8 @@
 AI-powered risk management system that analyzes trader history against prop-firm rules and predicts challenge pass probability using an explainable ML pipeline (RandomForest/GradientBoosting comparison, SHAP explainability, FastAPI + React dashboard).
 `Python` `FastAPI` `React` `scikit-learn` `SHAP`
 [`Repo →`](https://github.com/sujithTech007/prop-firm-readiness-analyzer)
-
 </td>
 <td width="50%" valign="top">
-
-
 ### 📜 Certifications
 
 - 🏅 **Google AIML Virtual** — AICTE (Sep 2024)
